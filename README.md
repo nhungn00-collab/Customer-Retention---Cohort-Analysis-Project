@@ -73,5 +73,5 @@ This indicates the need for stronger retention and loyalty strategies.
 - `.pdf` – Full report
 - `.html` – Project website
 
-## Project Website
- (your GitHub Pages link)
+## Project Website: https://nhungn00-collab.github.io/Customer-Retention---Cohort-Analysis-Project/
+
